@@ -32,6 +32,8 @@ https://github.com/godo129/iOS_RestApp_version3
 ### 일자리 크롤링 사이트 
 <img width="444" alt="스크린샷 2021-10-09 오후 11 03 44" src="https://user-images.githubusercontent.com/76652929/136661093-13ab5a1d-1c87-4a4f-8922-adc213a59d12.png">
 
+
 ### 주식 가격 관리
-<img width="444" alt="스크린샷 2021-10-09 오후 11 03 44" src="https://user-images.githubusercontent.com/76652929/136661476-4141f452-b0a1-451c-a3c1-50a8f529a5cf.png">
+<img width="446" alt="스크린샷 2021-10-09 오후 11 03 55" src="https://user-images.githubusercontent.com/76652929/136661677-199f5166-bf8b-4216-8c33-3fe08eae4131.png">
+
 
