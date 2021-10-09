@@ -2,19 +2,27 @@
 
 ## 해당 프로젝트와 이 프로젝트에 관련된 코드를 링크로 첨부했습니다. 
 
+- Unity 횡스크롤 게임 
 <img width="469" alt="스크린샷 2021-10-09 오후 11 01 53" src="https://user-images.githubusercontent.com/76652929/136661009-03adcef2-59c3-4a03-815e-615f76102fd7.png">
 
-
+- 음악, 게임 앱 
 <img width="454" alt="스크린샷 2021-10-09 오후 11 02 37" src="https://user-images.githubusercontent.com/76652929/136661037-dd6b6cba-3012-477d-810a-b61252a16979.png">
+https://github.com/godo129/iOS_VariousFuncAPP
 
 
+- 헬리콥터 게임 
 <img width="450" alt="스크린샷 2021-10-09 오후 11 03 03" src="https://user-images.githubusercontent.com/76652929/136661082-b8816cd1-2073-4543-a20c-c037a17afa86.png">
+https://github.com/godo129/HelicopterGame_SwiftUI
 
 
+- EPL 웹사이트
 <img width="436" alt="스크린샷 2021-10-09 오후 11 03 13" src="https://user-images.githubusercontent.com/76652929/136661085-498f45a9-de48-494b-a2d7-92e130856a04.png">
+https://github.com/godo129/Epl_WebSite
 
-
+- iOS 그림판 
 <img width="435" alt="스크린샷 2021-10-09 오후 11 03 24" src="https://user-images.githubusercontent.com/76652929/136661089-56e3ac94-254a-4dc1-a429-dd8790a187cc.png">
+https://github.com/godo129/iOS_drawing
+
 
 
 <img width="429" alt="스크린샷 2021-10-09 오후 11 03 34" src="https://user-images.githubusercontent.com/76652929/136661090-24a95db5-4bc9-4972-af6f-2f0443bce5dc.png">
