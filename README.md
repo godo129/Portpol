@@ -2,9 +2,9 @@
 
 ## 해당 프로젝트와 이 프로젝트에 관련된 코드를 링크로 첨부했습니다. 
 
-- Unity 횡스크롤 게임 
+### Unity 횡스크롤 게임 
 <img width="469" alt="스크린샷 2021-10-09 오후 11 01 53" src="https://user-images.githubusercontent.com/76652929/136661009-03adcef2-59c3-4a03-815e-615f76102fd7.png">
-
+https://github.com/godo129/Unity_2D_Game
 - 음악, 게임 앱 
 <img width="454" alt="스크린샷 2021-10-09 오후 11 02 37" src="https://user-images.githubusercontent.com/76652929/136661037-dd6b6cba-3012-477d-810a-b61252a16979.png">
 https://github.com/godo129/iOS_VariousFuncAPP
